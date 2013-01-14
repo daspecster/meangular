@@ -107,7 +107,7 @@ Speaking of complex JavaScript, let's see if we can figure out what those zany A
 
 ### `w`
 
-****Like, omg, just-- w/e.****
+***Like, omg, just-- w/e.***
 
 If you've played around with the many different MVC frameworks out there, you may have said something like that when trying to figure out what goes where. The Angular devs seemed to appreciate the multiple personality disorder, MPD, MVC has taken on, and thought they would be honest about their contribution to the confusion.
 
